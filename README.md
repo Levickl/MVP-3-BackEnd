@@ -3,7 +3,7 @@
 Este projeto é um MVP (Minimum Viable Product) da Disciplina Desenvolvimento Full Stack Básico da PUCRIO.
 
 ## Introdução
-Esse é o back-end do sistema, que complementa o front-end representado pelo gerenciador de usuários desenvolvido no projeto. O back-end fornece os dados necessários para o funcionamento do [front-end](https://github.com/Levickl/1_MVP_Front-end), permitindo ao usuário interagir de forma eficaz com a aplicação.
+Esse é o back-end do sistema, que complementa o front-end representado pelo gerenciador de usuários desenvolvido no projeto. O back-end fornece os dados necessários para o funcionamento do [front-end](https://github.com/Levickl/MVP3-Frontend), permitindo ao usuário interagir de forma eficaz com a aplicação.
 
 O objetivo principal deste back-end é fornecer uma API para suportar as operações de CRUD (Create, Read, Update, Delete) necessárias para gerenciar os recursos de usuários. Durante o desenvolvimento, foi possivel implementar mais de 4 rotas.
 
